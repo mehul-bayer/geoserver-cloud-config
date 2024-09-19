@@ -187,7 +187,7 @@ gwc:
 #### Access Control List client applications profile ####
 spring.config.activate.on-profile: acl
 
-acl.enabled: true
+acl.enabled: false
 acl.url: http://acl:8080/acl/api
 acl.username: geoserver
 acl.password: s3cr3t
